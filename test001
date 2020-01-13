@@ -6,5 +6,10 @@ test005
 test006
 test007
 test008
+<<<<<<< Updated upstream
 test009
+=======
+test0010
+
+>>>>>>> Stashed changes
 
